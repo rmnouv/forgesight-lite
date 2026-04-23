@@ -104,7 +104,7 @@ clean reference implementation of ideas from recent forensic CV literature.
 
 ### Prerequisites
 
-- Python 3.10 or newer
+- Python 3.12
 - NVIDIA GPU with CUDA 12.8 (for training; inference works on CPU)
 - `poppler` system package (for PDF input support)
 
@@ -115,7 +115,7 @@ clean reference implementation of ideas from recent forensic CV literature.
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/forgesight-lite.git
+git clone https://github.com/rmnouv/forgesight-lite.git
 cd forgesight-lite
 
 # Create a virtual environment
